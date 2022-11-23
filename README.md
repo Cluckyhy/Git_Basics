@@ -21,7 +21,9 @@
   2.一般将本地仓库与远程仓库 建立链接的话操作如下：
 
 ```markdown
-  1.首先在你们github账号下，创建一个远程仓库，建议先不要加入 README.md 文件。就是直接配置一个仓库名，和是否公共，还是私有 一个空的仓库就可以。
+  1.首先在你们github账号下，创建一个远程仓库，建议先不要加入 README.md 文件。
+  
+  就是直接配置一个仓库名，和是否公共，还是私有 一个空的仓库就可以。
 
   2.使用命令：`git remote add origin git@github.com:Cluckyhy/Git_Basics.git`
 
